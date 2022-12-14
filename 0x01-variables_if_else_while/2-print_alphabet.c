@@ -3,7 +3,7 @@
 /**
  * main - print an alphabet
  *
- * description: 'lowercase followed by new line'
+ * description - ch has to be in lowercase followed by new line
  *
  * return - always 0 ( success )
  */
