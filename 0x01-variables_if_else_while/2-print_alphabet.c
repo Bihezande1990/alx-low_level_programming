@@ -2,7 +2,9 @@
 
 /**
  * main - print an alphabet
- * Description: 'followed by new line'
+ *
+ * description: 'lowercase followed by new line'
+ *
  * return - always 0 ( success )
  */
 
