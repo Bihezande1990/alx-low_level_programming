@@ -2,8 +2,10 @@
 
 /**
  * main -  print ch in lowercase and uppercase
- * description - ch followed by new line \n
- * return: always 0 (succes)
+ *
+ * description -" ch" followed by new line \n
+ *
+ * Return: always 0 (succes)
  */
 
 int main(void)
