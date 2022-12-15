@@ -5,7 +5,7 @@
  *
  * description - ch has to be in lowercase followed by new line \n
  *
- * return - always 0 ( success )
+ * Return - always 0 ( success )
  */
 
 int main(void)
