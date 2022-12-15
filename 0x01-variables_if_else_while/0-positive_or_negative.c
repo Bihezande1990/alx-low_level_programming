@@ -4,8 +4,10 @@
 
 /**
  * main - main function to generate random number
+ *
  * description: 'random program'
- * return: Always 0 (success)
+ *
+ * Return: Always 0 (success)
  */
 
 int main(void)
