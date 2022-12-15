@@ -2,8 +2,10 @@
 
 /**
  * main - print an alphabet in lower case
+ *
  * description - except 'e' or 'q' followed by new line \n
- *Return: always 0 (success)
+ *
+ * Return: always 0 (success)
  */
 
 int main(void)
