@@ -10,15 +10,10 @@ int main(void)
 {
 	char ch;
 
-	for( ch = a; ch <= 'z'; ch++)
-	{
+	for( ch = 'a'; ch <= 'z'; ch++)
 		puchat(ch);
-	for( ch = A; ch < 'Z'; ch++)
-	{
+	for( ch = 'A'; ch < 'Z'; ch++)
 		putchar(ch);
-	}
 	puchar(\n);
-	}
 		return(0);
-}
 
