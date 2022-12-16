@@ -2,6 +2,7 @@
 
 /**
  * main  - program to check for alphabet character
+ *
  * description - "c" charcter to be checked if is a lowercase or uppercase
  *
  * Return: 1 if character is lower case or 0 if is uppercase
