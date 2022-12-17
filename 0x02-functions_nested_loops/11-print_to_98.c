@@ -2,6 +2,7 @@
 
 /**
  * print_to_98 - print all natural number
+ *
  * description: from "n" to 98
  */
 
