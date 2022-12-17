@@ -3,7 +3,7 @@
 /**
  * print_to_98 - print all natural number
  *
- * description: from "n" to 98
+ * description: from n to 98
  */
 
 void print_to_98(int n)
