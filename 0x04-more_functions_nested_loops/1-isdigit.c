@@ -4,7 +4,7 @@
  * _isdifit - print digit only between 0 and 9
  * descrption: n to b e check
  *
- * Return: 1 if the number is digit; 5 otherwise
+ * Return: 1 if the number is digit, 0 otherwise
  */
 
 int _isdigit(int c)
