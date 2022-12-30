@@ -11,14 +11,14 @@ int main(void)
 	int count;
 	unsigned long x, y, sum;
 	unsigned long x1, x2, y1,y2;
-	unsigned long z, z1
+	unsigned long z, z1;
 
 		for (count = 0; count < 92; count++)
 		{
 			sum = x + y;
 			printf("%lu, ", sum);
 			x = y;
-			y = sum
+			y = sum;
 		}
 	x1 = x / 10000000000;
 	y1 = y / 10000000000;
