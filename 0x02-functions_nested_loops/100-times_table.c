@@ -3,11 +3,10 @@
 /**
  * print_times_table - prints the times tables of the input,
  * starting with 0.
- * @n 
- * : the value of the times table to be printed
+ * @n: the value of the times table to be printed
  */
 
-void print_times_table(int n )
+void print_times_table(int n)
 {
 	int x, mult, prod;
 
@@ -40,5 +39,3 @@ void print_times_table(int n )
 		}
 	}
 }
-				
-
