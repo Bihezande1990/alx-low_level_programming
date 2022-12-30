@@ -9,7 +9,7 @@
 int main(void)
 {
 	int count;
-	unsigned long x, y, sum;
+	unsigned long x = 0, y = 1, sum;
 	unsigned long x1, x2, y1, y2;
 	unsigned long z, z1;
 
