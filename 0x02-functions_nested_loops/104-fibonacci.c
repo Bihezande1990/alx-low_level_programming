@@ -38,7 +38,7 @@ int main(void)
 			printf(", ");
 		x1 = y1;
 		x2 = y2;
-		x1 = z;
+		y1 = z;
 		y2 = z1;
 	}
 	printf("\n");
