@@ -41,6 +41,6 @@ int main(void)
 		x1 = z;
 		y2 = z1;
 	}
-	printf('\n");
+	printf("\n");
 	return (0);
 }
