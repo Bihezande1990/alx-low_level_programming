@@ -10,7 +10,7 @@ int main(void)
 {
 	int count;
 	unsigned long x, y, sum;
-	unsigned long x1, x2, y1,y2;
+	unsigned long x1, x2, y1, y2;
 	unsigned long z, z1;
 
 		for (count = 0; count < 92; count++)
